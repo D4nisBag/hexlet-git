@@ -1,1 +1,1 @@
-git is awesome!
+very info
